@@ -1,0 +1,79 @@
+.contact {
+    font-size: 100px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 160px;
+    left: 550px;
+}
+
+.gmail {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 400px;
+    left: 458px;
+  }
+
+  .linkedin {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 400px;
+    left: 596px;
+  }
+
+  .ig {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 400px;
+    left: 745px;
+  }
+
+  .wa {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 400px;
+    left: 895px;
+  }
+
+  .line {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 400px;
+    left: 1065px;
+  }
+
+  .outlook {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 550px;
+    left: 675px;
+  }
+
+  .dc {
+
+    font-size: 15px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 550px;
+    left: 830px;
+  }
+
